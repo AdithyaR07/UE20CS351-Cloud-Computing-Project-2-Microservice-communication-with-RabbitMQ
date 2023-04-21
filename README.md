@@ -3,7 +3,7 @@
 
 # Team Members
 1. Abhinav Gunti    (PES1UG20CS008)
-2. Adithya Narayan  (PES1UG20CS014)
+2. Adithya R Narayan  (PES1UG20CS014)
 3. Akash Shankar    (PES1UG20CS028)
 4. Anish Khairnar   (PES1UG20CS058)
 
